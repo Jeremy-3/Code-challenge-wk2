@@ -19,7 +19,7 @@ To use this repo, follow these steps:
 
 2.Clone the reprository by running the following command:
 
-`git clone https://github.com/Jeremy-3/Code-challenge-wk2.git`
+     git clone https://github.com/Jeremy-3/Code-challenge-wk2.git
 
 3.Change directory to the repo folder:
 
