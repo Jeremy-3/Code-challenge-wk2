@@ -53,6 +53,12 @@ function purchaseItems() {
 purchaseButton.addEventListener("click", purchaseItems);
 
 clearButton.addEventListener("click", function () {
-  purchaseButton.innerHtml="";
+  purchaseButton.innerHtml = "";
   itemList.innerHTML = "";
 });
+// const body = document.body;
+// const h2 = document.createElement("h2");
+// body.append(h2);
+// h2.textContent = "hoo";
+
+
